@@ -1,0 +1,14 @@
+TODO:
+
+- add function integrity verification for winapi
+- unknown rwx scanner
+- local player integrity check (health/etc)
+- entity list integrity check (iterate thru do similar scans from above ^)
+- opengl integrity check
+- upper winapi wrapper callbacks (ex: VirtualProtect)
+- implement flag system
+
+maybe:
+- thread hijack to force game heartbeat
+- light obfuscation/virtualization/packing
+- allow for users to enable/disable modules of AC for difficulty change
