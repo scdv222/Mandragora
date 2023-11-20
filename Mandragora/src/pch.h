@@ -23,4 +23,5 @@
 #include "globals/globals.h"
 #include "game/offsets/offsets.h"
 #include "game/game.h"
+#include "game/object_manager.h"
 #endif

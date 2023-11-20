@@ -19,5 +19,5 @@ void initialize(uintptr_t module_base, size_t module_size)
 
 	offsets::initialize_offsets();
 
-	game::player* local_player = reinterpret_cast<game::player*>(*(uintptr_t*)(globals::executable_base + offsets::p_local_player));
+	game::player* local_player = object_manager::get_local_player();
 }
