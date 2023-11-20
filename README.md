@@ -4,7 +4,7 @@
 
 Mandragora is an educational anti-cheat operating strictly within usermode/ring-3 context. 
 
-The purpose of this project is to help enable new reverse-engineers or game hackers to learn how an anti-cheat might work.
+The purpose of this project is to help enable new reverse-engineers or game hackers learn how an anti-cheat might work.
 
 The difficulty of this anti-cheat is purposefully weak. Most new hackers will write a cheat for Assault Cube as their first project, this is designed as a follow-up to see if they can think a bit more creatively about the way they most likely accomplished things.
 
